@@ -1,1 +1,2 @@
 Šis ir fails, kur es testēju fork.
+Nu labi.
